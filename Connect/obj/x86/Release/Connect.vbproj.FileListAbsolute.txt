@@ -1,0 +1,14 @@
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\Your_Database.accdb
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\Connect.exe.config
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\Connect.exe
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\Connect.pdb
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\Connect.xml
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\bin\x86\Release\it-IT\Connect.resources.dll
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.From1.resources
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.Resources.resources
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.From1.it-IT.resources
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.vbproj.GenerateResource.cache
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\it-IT\Connect.resources.dll
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.exe
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.xml
+C:\Users\GIOVANNIRUSSO\Desktop\connect\Connect\Connect\obj\x86\Release\Connect.pdb

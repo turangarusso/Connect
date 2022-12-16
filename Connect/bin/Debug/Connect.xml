@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Connect
+</name>
+</assembly>
+<members>
+<member name="T:Connect.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Add_132335">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Color_wheel_132278">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Delete_132192">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Info_132334">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Left_132177">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Letter_132303">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Log_out_132180">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Right_132313">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Save_132226">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.iconfinder_Zoom_132326">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.unnamed">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Connect.My.Resources.Resources.unnamed__1_">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSet.Table1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSet.Table1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSet.Table1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSetTableAdapters.Table1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Connect.Your_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Connect.Your_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Connect.Your_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(Connect.Your_DatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Connect.Your_DatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
