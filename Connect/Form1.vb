@@ -234,7 +234,7 @@ SearchErr:
     End Sub
 
     Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
-        Dim apikey = "28idL6l4yc8-RBZLAcciFoaQstUAoOkid1ZbmVDjqc"
+        Dim apikey = "your api key"
         Dim uTime As Integer
 
         uTime = (DateTimePicker3.Value - New DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds
