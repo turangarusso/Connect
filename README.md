@@ -89,13 +89,13 @@ Private Sub Button19_Click(sender As Object, e As EventArgs)
         Dim Ndate As Date
         Ndate = DateAdd("m", -1, DateTimePicker1.Value)
         uTime = (Ndate - New DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds
-        Dim apikey = "28idL6l4yc8-RBZLAcciFoaQstUAoOkid1ZbmVDjqc"
+        Dim apikey = "------------------ your api key -------------------------"
         MessageBox.Show(uTime)
     End Sub
 ```
 ```
 Private Sub Button19_Click_1(sender As Object, e As EventArgs) Handles Button19.Click
-        Dim apikey = "your api key"
+        Dim apikey = "------------------ your api key -------------------------"
         Dim uTime As Integer
 
         uTime = (DateTimePicker3.Value - New DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds
