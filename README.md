@@ -53,7 +53,7 @@
 
 You can build the project using Visual Studio (full version), or you can use the prebuild exe in the repository. Check out the code to change TextLocal API Key
 
-```
+```vb
 Private Sub txtAuto_Click(sender As Object, e As EventArgs) Handles txtAuto.Click
         Dim uTime As Integer
         Dim Ndate As Date
@@ -83,7 +83,7 @@ Private Sub txtAuto_Click(sender As Object, e As EventArgs) Handles txtAuto.Clic
 
 ```
 
-```
+```vb
 Private Sub Button19_Click(sender As Object, e As EventArgs)
         Dim uTime As Integer
         Dim Ndate As Date
@@ -93,7 +93,7 @@ Private Sub Button19_Click(sender As Object, e As EventArgs)
         MessageBox.Show(uTime)
     End Sub
 ```
-```
+```vb
 Private Sub Button19_Click_1(sender As Object, e As EventArgs) Handles Button19.Click
         Dim apikey = "------------------ your api key -------------------------"
         Dim uTime As Integer
